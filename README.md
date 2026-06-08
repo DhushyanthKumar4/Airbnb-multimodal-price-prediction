@@ -1,2 +1,1 @@
-# Deep-Learning-Project-Airbnb-Multimodal-Price-and-Feature-Prediction
-Deep learning project using CNN and multimodal learning (images + tabular data) to predict Airbnb listing price and room type. Includes transfer learning, feature fusion, and explainable AI techniques like Grad-CAM.
+Multimodal deep learning system combining property images and tabular features to predict Airbnb listing prices and room types using CNN-based feature fusion.
